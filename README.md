@@ -30,7 +30,7 @@ This let's you add some additional pictures, as well as custom pictures to the g
 
 - Several new posters, picture frames, and photos have been added. They are white paper with nothing drawn on them, but MyPicturesMod.dll can display PNG files in the Mods/WallMyPictures folder on their surfaces. The downloaded WallMyPictures folder initially contains PNG files, but you can also replace them with other images by editing those PNG files. You can use different resolutions, but please keep the ratio of height to width. Also, do not change the file name.
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD6.jpg" width="40%"><img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD7.jpg" width="40%">
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD6.jpg" width="40%">&nbsp;&nbsp;<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD7.jpg" width="40%">
 
 ## Finding Items
 

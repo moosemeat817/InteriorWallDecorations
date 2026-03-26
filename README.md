@@ -1,7 +1,17 @@
 # Interior Wall Decorations
 This let's you add some additional pictures, as well as custom pictures to the game.
 
+## Version 2.1
 
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD1.jpg" width="80%">
+
+## Different sizes for pictures
+
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD2.jpg" width="80%">
+
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD3.jpg" width="40%">
+
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD4.jpg" width="40%">
 
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.
@@ -22,11 +32,18 @@ This let's you add some additional pictures, as well as custom pictures to the g
 
 - Several new posters, picture frames, and photos have been added. They are white paper with nothing drawn on them, but MyPicturesMod.dll can display PNG files in the Mods/WallMyPictures folder on their surfaces. The downloaded WallMyPictures folder initially contains PNG files, but you can also replace them with other images by editing those PNG files. You can use different resolutions, but please keep the ratio of height to width. Also, do not change the file name.
 
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD6.jpg" width="40%">
+
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD7.jpg" width="40%">
+
 ## Finding Items
 
 - **Loot**: Currently the new item will be found while searching various locations, e.g. Workbench, PlasticBox, Locker.
 - **Spawn**: I have also added spawns for all items in various locations. Those are guaranteed. e.g. QuonsetGasStation, Dam, CampOffice. Also, some items can be crafted.
   **(NOTE: Gearspawner spawns all gear only on the first visit to each location. In other words, all mod items will not spawn in locations you have already visited.)**
+
+
+  <img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD5.jpg" width="40%">
 
 ## Adding Items
 

@@ -9,9 +9,7 @@ This let's you add some additional pictures, as well as custom pictures to the g
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD2.jpg" width="80%">
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD3.jpg" width="40%">
-
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD4.jpg" width="40%">
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD3.jpg" width="40%">&nbsp;&nbsp;<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD4.jpg" width="40%">
 
 - If you haven't done so already, install MelonLoader by downloading and running MelonLoader.Installer.exe
 - Install the latest version of ModComponent and its dependencies.

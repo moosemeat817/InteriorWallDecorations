@@ -1,7 +1,7 @@
 # Interior Wall Decorations
 This let's you add some additional pictures, as well as custom pictures to the game.
 
-## Version 2.1
+## Version 2.1.0
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD1.jpg" width="80%">
 

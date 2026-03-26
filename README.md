@@ -47,5 +47,5 @@ This let's you add some additional pictures, as well as custom pictures to the g
 
 ## Special Thanks
 
-- Atlas Lumi and Thekillergreece (original mod authors)
+- Atlas Lumi and Thekillergreece and stmSantana (original mod authors)
 - The Long Dark Modding Server (discord)

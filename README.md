@@ -12,7 +12,7 @@ This let's you add some additional pictures, as well as custom pictures to the g
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD3.jpg" width="40%">&nbsp;&nbsp;<img src="https://github.com/moosemeat817/ModListJson/blob/main/IWD4.jpg" width="40%">
 
 - If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://melonwiki.xyz/)
-- Install the latest version of ModComponent and its dependencies.
+- Install the latest version of [ModComponent](https://github.com/dommrogers/ModComponent/releases) and its dependencies.
 - Download latest version of `InteriorWallDecorations.zip` from the releases page.
 - You will need to unzip(extract) the downloaded Zip and move the files and folders in it to the Mods folder. I explain it in detail below.
 **(Caution! Do not move the Zip file itself to the Mods folder.)**
